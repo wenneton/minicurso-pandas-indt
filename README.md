@@ -16,3 +16,11 @@
 ## Conjunto de dados
 
 Os dados de informações dos aplicativos na Google Play Store será utilizado no escopo deste minicurso. Eles estão disponíveis [aqui](https://www.kaggle.com/lava18/google-play-store-apps), porém estão presentes também nesse repositório na pasta *data*.
+
+## Extras
+
+Outros repositórios que possuem um bom conteúdo de ciência dos dados, ótimo para iniciantes:
+
+* [Pizza de Dados](https://github.com/leportella/datascience-pizza)
+* [Siraj Raval](https://github.com/llSourcell)
+* [Curso Machine Learning Elloá Guedes](https://github.com/elloa/ocean-machineLearning2018)
