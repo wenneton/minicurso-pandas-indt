@@ -1,5 +1,9 @@
 # Minicurso: Introdução à Ciência de Dados com Python
 
+### Facilitadores:
+* [Marcos Wenneton Araújo](https://github.com/wenneton)
+* [Juliany Raiol](https://github.com/julianyraiol)
+
 ## Preparação do ambiente
 
 1. Baixe a mais recente versão do Anaconda com Python 3.7 compatível com o seu sistema operacional em: https://www.anaconda.com/distribution/. Nela estão presente as ferramentas que serão utilizadas no decorrer do minicurso, que são: A plataforma *Jupyter Notebook*, e as bibliotecas *pandas* e *numpy* do Python.
