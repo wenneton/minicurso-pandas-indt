@@ -11,3 +11,8 @@
 <img src="https://i.imgur.com/WXhLcBz.png"  width="700" height="350" align="center">
 
 4. A partir de então basta procurar o arquivo `.ipynb` disponibilizado aqui neste repositório, abri-lo e você já estará pronto para aprender um pouco sobre a análise de dados. Bom aprendizado!!
+
+
+## Conjunto de dados
+
+Os dados de informações dos aplicativos na Google Play Store será utilizado no escopo deste minicurso. Eles estão disponíveis [aqui](https://www.kaggle.com/lava18/google-play-store-apps), porém estão presentes também nesse repositório na pasta *data*.
