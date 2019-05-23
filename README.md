@@ -14,7 +14,7 @@
 
 <img src="https://i.imgur.com/WXhLcBz.png"  width="700" height="350" align="center">
 
-4. A partir de então basta procurar o arquivo `.ipynb` disponibilizado aqui neste repositório, abri-lo e você já estará pronto para aprender sobre análise de dados. Bom aprendizado!!
+4. A partir de então basta procurar o arquivo `minicurso_pandas.ipynb` disponibilizado aqui neste repositório, abri-lo e você já estará pronto para aprender sobre análise de dados. Bom aprendizado!!
 
 
 ## Conjunto de dados
